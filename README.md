@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Kevin
 
-<!--
-**kevincirella/kevincirella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems Analysis and Development student from Brazil, learning data from scratch.
 
-Here are some ideas to get you started:
+## What I'm up to
+-  Learning SQL
+-  Building my skills in Excel and Python
+-  Looking for a data internship
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+`SQL` · `Excel` · `Python`
+
+## Projects
+- **estudos-sql**: my SQL notes and exercises (coming soon)
+
+## Let's connect
+- LinkedIn: https://linkedin.com/in/kevin-cirella
